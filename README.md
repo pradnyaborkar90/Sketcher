@@ -3,7 +3,7 @@ A Real Time Sketcher which takes feeds from Webcam and displays a sketched Outpu
 
 Technologies Used: Python
 
-Libraries used:
+Libraries/ Modules used:
 
 Numpy
 
